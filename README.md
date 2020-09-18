@@ -5,4 +5,4 @@
 
 
 # Do have a look about it here (https://sushanthreddymanda.github.io/web_gl_level1/).
-# And do give it  * star if you  liked it :)
+# And do give it  ⭐ star if you  liked it :)
