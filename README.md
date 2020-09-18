@@ -15,4 +15,4 @@ Do have a look about it here .   CONTROLS ARE KEY a , KEY s IN KEYBOARD
 
 
 
-And do give it  ⭐ star if you  liked it :)
+And dont forget to give repo a ⭐ star if you  liked it :)
