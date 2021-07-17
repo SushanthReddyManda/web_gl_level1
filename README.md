@@ -9,7 +9,7 @@ This is a game based on a cube which u have to move to get levels passed on ; fo
 
 
 Do have a look about it here .   CONTROLS ARE KEY a , KEY s IN KEYBOARD
-# (https://sushanthreddymanda.github.io/web_gl_level1/).
+# (https://sushanthreddymanda.github.io/web_gl_level1/)
 
 
 
